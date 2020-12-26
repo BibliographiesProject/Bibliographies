@@ -1,4 +1,4 @@
-# Bibliographies Project
+# The Bibliographies Project
 Repository for r/Bibliographies
 
 Hello! Welcome to the Repository! <br />
