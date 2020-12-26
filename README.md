@@ -2,6 +2,9 @@
 Repository for r/Bibliographies
 
 Hello! Welcome to the Repository! <br />
+
+Please check the wiki for even more detail. 
+If you'd like the help the project please contact the admins.
 Each Section corresponds to a different academic field. <br />
 There are current Work in Progress for each S.T.E.M. field we are working on. <br />
 There are also full published Main Documents relating to each field and one Master LaTeX bibliography.<br />
