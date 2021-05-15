@@ -21,14 +21,14 @@ After completing a study of classical mechanics, readers trying to obtain a basi
 
 **Books:**
 
-######Undergraduate Books
+###### Undergraduate Books
 
  * [Taylor, John R. **Classical Mechanics** University Science Books: 2005.](http://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X) *Taylor pretty much kills the competition in the Undergraduate area*
 
  * [Marion, Jerry B. and Thornton, Stephen T. **Classical Dynamics of Particles and Systems**. Saunders College Publications: 1995, 4th ed.](http://www.amazon.com/Classical-Dynamics-Particles-Systems-4th/dp/0030973023) *A very commonly-used undergraduate textbook*
 
 
-* ######Graduate Books
+###### Graduate Books
 
  * [Goldstein, Robert. **Classical Mechanics**. Addison-Wesley: 2001, 3rd ed.](http://www.amazon.com/Classical-Mechanics-3rd-Herbert-Goldstein/dp/0201657023) *The standard graduate-level textbook*
 
