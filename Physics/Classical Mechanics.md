@@ -21,7 +21,7 @@ After completing a study of classical mechanics, readers trying to obtain a basi
 
 **Books:**
 
-* ######Undergraduate Books
+######Undergraduate Books
 
  * [Taylor, John R. **Classical Mechanics** University Science Books: 2005.](http://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X) *Taylor pretty much kills the competition in the Undergraduate area*
 
