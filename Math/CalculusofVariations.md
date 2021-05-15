@@ -1,4 +1,4 @@
-#Calculus of Variations#
+# Calculus of Variations
 
 Calculus of variations is a field of mathematical analysis that uses variations, which are small changes in functions and functionals, to find maxima and minima of functionals: mappings from a set of functions to the real numbers.- Wikipedia
 
