@@ -2,7 +2,7 @@
 
 **Prerequisites:**
 
-* [Differential Geometry] (https://old.reddit.com/r/bibliographies/comments/akguun/differential_geometry/) *
+* [Differential Geometry](https://old.reddit.com/r/bibliographies/comments/akguun/differential_geometry/) *
 
 * [Quantum Mechanics](https://old.reddit.com/r/bibliographies/comments/ajm9k6/quantum_mechanics/) **
 

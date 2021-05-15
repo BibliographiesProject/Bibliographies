@@ -39,25 +39,19 @@ I do want to say before a user starts this Bibliography, that this was one of th
 
 **Books:**
 
-* ######Undergraduate Books
+###### Undergraduate Books
 
- * [Thermal Physics (2nd Edition) Second Edition
-by Charles Kittel (Author), Herbert Kroemer (Author)](https://www.amazon.com/Thermal-Physics-2nd-Charles-Kittel/dp/0716710889) *Not a bad a book but considering that most Statistical Mechanics aren't very well written, it stands out from the few decent books*
+ * [Thermal Physics (2nd Edition) Second Edition by Charles Kittel (Author), Herbert Kroemer (Author)](https://www.amazon.com/Thermal-Physics-2nd-Charles-Kittel/dp/0716710889) *Not a bad a book but considering that most Statistical Mechanics aren't very well written, it stands out from the few decent books*
 
- * [Introduction to Thermodynamics and Statistical Mechanics 2nd Edition
-by Keith Stowe (Author)](https://www.amazon.com/Introduction-Thermodynamics-Statistical-Mechanics/dp/1107694922) *A very good book that has plenty of good explanations. Mathematics is a little less than what you would hope for, as some explanations and crucial calculations are left to the appendix. A more modern and meaningful approach to Stat Mech than most books*
+ * [Introduction to Thermodynamics and Statistical Mechanics 2nd Edition by Keith Stowe (Author)](https://www.amazon.com/Introduction-Thermodynamics-Statistical-Mechanics/dp/1107694922) *A very good book that has plenty of good explanations. Mathematics is a little less than what you would hope for, as some explanations and crucial calculations are left to the appendix. A more modern and meaningful approach to Stat Mech than most books*
 
- * [An Introduction to Thermal Physics 1st Edition
-by Daniel V. Schroeder (Author)](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0201380277/ref=sr_1_2?crid=W589GKLQOEMF&dchild=1&keywords=schroeder+thermal+physics&qid=1586189231&s=books&sprefix=Schroeder+%2Cstripbooks%2C158&sr=1-2) *The replacement textbook from Kittel & Kroemer commonly used in most Universities.*
+ * [An Introduction to Thermal Physics 1st Edition by Daniel V. Schroeder (Author)](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0201380277/ref=sr_1_2?crid=W589GKLQOEMF&dchild=1&keywords=schroeder+thermal+physics&qid=1586189231&s=books&sprefix=Schroeder+%2Cstripbooks%2C158&sr=1-2) *The replacement textbook from Kittel & Kroemer commonly used in most Universities.*
 
  * [Fundamentals of Statistical and Thermal Physics by Frederick Reif (Author)](https://www.amazon.com/Fundamentals-Statistical-Thermal-Physics-Frederick/dp/1577666127) *A well known book among Physicists, usually known for its' use of obscure notation and being unnecessarily formal. Usually used for reference, as most information is not presented in a clear way*
 
- * [
-Thermodynamics; Intro Thermostat 2E Clo 2nd Edition
-by Herbert B. Callen (Author)
-](https://www.amazon.com/Thermodynamics-Intro-Thermostat-2E-Clo/dp/0471862568) *See Preliminary*
+ * [Thermodynamics; Intro Thermostat 2E Clo 2nd Edition by Herbert B. Callen (Author)](https://www.amazon.com/Thermodynamics-Intro-Thermostat-2E-Clo/dp/0471862568) *See Preliminary*
 
-* ######Graduate Books
+###### Graduate Books
 
  * [Statistical Physics: Volume 5 3rd Edition by L D Landau (Author), E. M. Lifshitz (Author)](https://archive.org/details/ost-physics-landaulifshitz-statisticalphysics/mode/2up) *Landau & Lifshitz textbooks are typically considered the pinnacle textbooks of their fields, usually known for their clarity. Usual complaints are that it is very math heavy and challenging. Used to tighten up foundations and knowledge.*
 
@@ -65,14 +59,11 @@ by Herbert B. Callen (Author)
 
  * [Statistical Mechanics by R K Pathria (Author)](https://www.amazon.com/exec/obidos/ASIN/0080189946/ref=nosim/mitopencourse-20) *Unknown about how well written it is what most users think about this book. On the list do to the fact it is commonly used for some Graduate programs at R1 and R2 universities*
 
- * [Statistical Physics of Particles 1st Edition
-by Mehran Kardar (Author)](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428) *Used for Statistical Mechanics I at MIT*
+ * [Statistical Physics of Particles 1st Edition by Mehran Kardar (Author)](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428) *Used for Statistical Mechanics I at MIT*
 
- * [Statistical Physics of Fields 1st Edition
-by Mehran Kardar (Author)](https://www.amazon.com/Statistical-Physics-Fields-Mehran-Kardar/dp/052187341X) *Used for Statistical Mechanics II at MIT*
+ * [Statistical Physics of Fields 1st Edition by Mehran Kardar (Author)](https://www.amazon.com/Statistical-Physics-Fields-Mehran-Kardar/dp/052187341X) *Used for Statistical Mechanics II at MIT*
 
- * [Statistical Physics: Theory of the Condensed State (Pt 2)
-by E.M. Lifshitz (Author), L. P. Pitaevskii (Author)](https://www.amazon.com/Statistical-Physics-Theory-Condensed-State-dp-0750626364/dp/0750626364/ref=mt_paperback?_encoding=UTF8&me=&qid=1586626910) *Not written by Landau so the quality or difficulty may be up in the air. Has more applications to Condensed Matter Theory*
+ * [Statistical Physics: Theory of the Condensed State (Pt 2) by E.M. Lifshitz (Author), L. P. Pitaevskii (Author)](https://www.amazon.com/Statistical-Physics-Theory-Condensed-State-dp-0750626364/dp/0750626364/ref=mt_paperback?_encoding=UTF8&me=&qid=1586626910) *Not written by Landau so the quality or difficulty may be up in the air. Has more applications to Condensed Matter Theory*
 
 **Assignments**
 
