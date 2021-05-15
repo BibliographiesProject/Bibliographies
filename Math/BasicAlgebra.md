@@ -1,4 +1,4 @@
-#Basic Algebra#
+#Basic Algebra
 
 Basic (or elementary) algebra extends arithmetic by introducing symbols known as variables that do not represent a specific number but any number to be inserted later.   The goal of algebra is to manipulate expressions that involve these variables in order to study general relationships.  For example, the equation "A = lw" can be used to express that the area of *any* rectangle is equal to its length times its width - replacing "l" and "w" with specific measurements will find the area of an actual rectangle. Using algebra, this equation can be changed into "l = A/w", which tells us that the length of any rectangle is equal to its area divided by its width.  The ability to easily manipulate algebraic equations in a variety of ways is essential to studying more complex mathematical techniques.
 
