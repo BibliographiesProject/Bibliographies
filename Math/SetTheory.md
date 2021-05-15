@@ -1,4 +1,4 @@
-#Set Theory#
+# Set Theory
 
 Set theory is a branch of mathematical logic that studies sets, which informally are collections of objects. Although any type of object can be collected into a set, set theory is applied most often to objects that are relevant to mathematics. The language of set theory can be used to define nearly all mathematical objects.
 
@@ -30,8 +30,6 @@ Readers who want to learn set theory should start with an introductory text book
 
 **Other Online Sources:**
 
-* [Kanamori](http://math.bu.edu/people/aki/16.pdf)
-
- *This excellent paper by Kanamori talks about the historical development of set theory, what problems in mathematics gave rise to some of the ideas in set theory, and where the specific constructions came from. It's worth reading, or at least skimming*
+* [Kanamori](http://math.bu.edu/people/aki/16.pdf) *This excellent paper by Kanamori talks about the historical development of set theory, what problems in mathematics gave rise to some of the ideas in set theory, and where the specific constructions came from. It's worth reading, or at least skimming*
 
 * [Frederique](http://www1.spms.ntu.edu.sg/~frederique/dm4.pdf) *A short lecture notes on set theory by Frederique.*

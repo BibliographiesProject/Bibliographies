@@ -1,4 +1,4 @@
-#Partial Differential Equations#
+# Partial Differential Equations
 
 In mathematics, a partial differential equation is a differential equation that contains beforehand unknown multivariable functions and their partial derivatives. PDEs are used to formulate problems involving functions of several variables, and are either solved by hand, or used to create a computer model. -Wikipedia
 
@@ -14,13 +14,11 @@ In mathematics, a partial differential equation is a differential equation that 
 
 * [Partial Differential Equations for Scientists and Engineers (Dover Books on Mathematics)](https://www.amazon.com/Differential-Equations-Scientists-Engineers-Mathematics/dp/048667620X/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=HHMZ1C0CG2M2X6D0WR4R )*(A great starter book)*
 
-* [Partial Differential Equations: Second Edition (Graduate Studies in Mathematics) 2nd Edition
-](https://www.amazon.com/Partial-Differential-Equations-Graduate-Mathematics/dp/0821849743)
+* [Partial Differential Equations: Second Edition (Graduate Studies in Mathematics) 2nd Edition](https://www.amazon.com/Partial-Differential-Equations-Graduate-Mathematics/dp/0821849743)
 
 * [Partial Differential Equations: An Introduction 2nd Edition](https://www.amazon.com/Partial-Differential-Equations-Walter-Strauss/dp/0470054565)
 
-* [Partial Differential Equations (Applied Mathematical Sciences) (v. 1) 4th Edition
-](https://www.amazon.com/Partial-Differential-Equations-Mathematical-Sciences/dp/0387906096)
+* [Partial Differential Equations (Applied Mathematical Sciences) (v. 1) 4th Edition](https://www.amazon.com/Partial-Differential-Equations-Mathematical-Sciences/dp/0387906096)
 
 * [Partial Differential Equations: Methods and Applications](https://www.amazon.com/Partial-Differential-Equations-Methods-Applications/dp/0130093351) *(by McOwen is a good book, shorter and easier than Evans (and also making use of distributions)).*
 
@@ -30,8 +28,7 @@ In mathematics, a partial differential equation is a differential equation that 
 
 * [ICTP](https://www.youtube.com/watch?v=Rq1iRT2LL-8&list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
 
-* [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-152-introduction-to-partial-differential-
-equations-fall-2011/)
+* [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2011/)
 
 **Other Online Sources:**
 

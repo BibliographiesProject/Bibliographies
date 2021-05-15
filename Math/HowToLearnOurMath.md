@@ -1,4 +1,4 @@
-#How to learn our math#
+# How to learn our math
 
 Hi,
 
@@ -6,7 +6,7 @@ So you want to learn math. Fantastic! Math is a wonderful but grueling subject, 
 
 &nbsp;
 
-##Engineering
+## Engineering
 
 **MechE/Aero/Astro/ChemE/Civil/CompE**
 
@@ -19,8 +19,6 @@ So you want to learn math. Fantastic! Math is a wonderful but grueling subject, 
 - [Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgt8r/differential_equations/)
 - Statistics for Engineering and the Sciences
 - [Partial Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgtbv/partial_differential_equations/) *Yes you can learn PDE without Real Analysis*
-
-****
 
 
 **Nuclear/Electrical/ECE**
@@ -38,7 +36,7 @@ So you want to learn math. Fantastic! Math is a wonderful but grueling subject, 
 
 
 
-##Sciences
+## Sciences
 
 **Physics**
 

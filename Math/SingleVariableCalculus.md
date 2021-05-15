@@ -1,4 +1,4 @@
-#singlevariable_calculus#
+# Single Variable Calculus
 
 Calculus is a set of mathematical techniques based on applying the idea of limit to functions, which makes it possible to study the rate at which a function changes at one specific instant rather than just its average rate of change over a finite period of time.  The techniques of calculus are the foundation of physical science, and so it is no coincidence that calculus and modern physics were born simultaneously through the work of Sir Isaac Newton and his contemporaries.
 
@@ -52,35 +52,3 @@ Readers who wish to study the physical sciences or engineering will discover tha
 
 - [Multivariable Calculus](https://www.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
 - [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
-
-****
-
-##Calculus I (Differential Calculus) [Standard Pathway Bibliography](https://old.reddit.com/r/bibliographies/comments/dc41gm/introducing_spbs/)
-
-##Book
-**Intermediate:**
-
-* [UBC by Joel Feldman/Andrew Rechnitzer/Elyse Yeager](http://www.math.ubc.ca/%7ECLP/CLP1/clp_1_dc.pdf)
-
-**Expert:**
-
-* [MIT by Gilbert Strang](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
-
-
-****
-
-##Lecture
-
-* [Professor Leonard](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
-
-****
-
-##Problems
-
-**Intermediate**
-
-* [UBC](http://www.math.ubc.ca/%7ECLP/CLP1/problem_book_clp_1.pdf)
-
-**Expert**
-
-* [MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2005/assignments/)

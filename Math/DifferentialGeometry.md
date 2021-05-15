@@ -1,4 +1,4 @@
-#Differential Geometry#
+# Differential Geometry
 
 "Differential geometry is a mathematical discipline that uses the techniques of differential calculus, integral calculus, linear algebra and multilinear algebra to study problems in geometry." -Wikipedia
 
@@ -6,7 +6,7 @@
 
 * [Multivariable Calculus](https://old.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
 
-* [Linear Algebra] (https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
+* [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
 
 * [Topology] (https://old.reddit.com/r/bibliographies/comments/akguwi/topology/)
 
@@ -14,7 +14,7 @@
 
 * [Vector Analysis (Undergraduate Texts in Mathematics)](https://www.amazon.com/Vector-Analysis-Undergraduate-Texts-Mathematics/dp/0387986499) *Our recommendation for an intro book*
 
-* [Geometric Integration Theory (Cornerstones)] (https://www.amazon.com/Geometric-Integration-Theory-Cornerstones-Steven/dp/0817646760)
+* [Geometric Integration Theory (Cornerstones)] https://www.amazon.com/Geometric-Integration-Theory-Cornerstones-Steven/dp/0817646760)
 
 * [Introduction to Smooth Manifolds (Graduate Texts in Mathematics)](https://www.amazon.com/Introduction-Smooth-Manifolds-Graduate-Mathematics/dp/0387954481)
 
@@ -24,15 +24,13 @@
 
 **Exams**
 
-* [ Math 405/538 Differential Geometry
-Final Exam](https://www2.bc.edu/baris-coskunuzer/courses/math405_F13/Math405final_F13_key.pdf)
+* [ Math 405/538 Differential Geometry Final Exam](https://www2.bc.edu/baris-coskunuzer/courses/math405_F13/Math405final_F13_key.pdf)
 
-* [Math 352] (http://faculty.bard.edu/belk/math352/)
+* [Math 352](http://faculty.bard.edu/belk/math352/)
 
-* [Final Exam of Differential Geometry I ] (http://web.ntnu.edu.tw/~494402345/differential_geometry/2008final_differential_geometry.pdf)
+* [Final Exam of Differential Geometry I ](http://web.ntnu.edu.tw/~494402345/differential_geometry/2008final_differential_geometry.pdf)
 
-* [Final Exam, Math 421
-Differential Geometry: Curves and Surfaces in R3](http://www.professorbray.net/Teaching/421/2018/2013Final.pdf)
+* [Final Exam, Math 421 | Differential Geometry: Curves and Surfaces in R3](http://www.professorbray.net/Teaching/421/2018/2013Final.pdf)
 
 * [Math 421](https://services.math.duke.edu/~bray/Courses/421/2016/Math421.html)
 

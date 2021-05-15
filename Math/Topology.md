@@ -1,6 +1,6 @@
-#Topology#
+# Topology
 
-#**Brief Explanation**
+**Brief Explanation**
 
 In mathematics, topology is concerned with the properties of space that are preserved under continuous deformations, such as stretching, twisting, crumpling and bending, but not tearing or gluing. An n-dimensional topological space is a space with certain properties of connectedness and compactness. - Wikipedia
 

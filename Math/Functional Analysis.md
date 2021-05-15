@@ -1,4 +1,4 @@
-#Functional Analysis#
+# Functional Analysis
 
 Functional analysis is a branch of mathematical analysis, the core of which is formed by the study of vector spaces endowed with some kind of limit-related structure (e.g. inner product, norm, topology, etc.) and the linear functions defined on these spaces and respecting these structures in a suitable sense. The historical roots of functional analysis lie in the study of spaces of functions and the formulation of properties of transformations of functions such as the Fourier transform as transformations defining continuous, unitary etc. operators between function spaces. This point of view turned out to be particularly useful for the study of differential and integral equations. [-Wikipedia](https://www.wikiwand.com/en/Functional_analysis)
 

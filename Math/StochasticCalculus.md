@@ -1,4 +1,4 @@
-#Stochastic Calculus#
+# Stochastic Calculus
 
 "Stochastic calculus is a branch of mathematics that operates on stochastic processes. It allows a consistent theory of integration to be defined for integrals of stochastic processes with respect to stochastic processes. It is used to model systems that behave randomly." -Wikipedia
 

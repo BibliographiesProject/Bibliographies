@@ -1,4 +1,4 @@
-#Real analysis#
+# Real Analysis
 
 "In mathematics, real analysis is the branch of mathematical analysis that studies the behavior of real numbers, sequences and series of real numbers, and real-valued functions. Some particular properties of real-valued sequences and functions that real analysis studies include convergence, limits, continuity, smoothness, differentiability and integrability." - Wikipedia.
 
@@ -69,8 +69,10 @@
 
 - [Complex Analysis](https://old.reddit.com/r/bibliographies/comments/axuhxy/complex_analysis/)
 
--------------------------------------------------------------------------------------------------------------------------------------
-This was posted by a user, whom I've banned due to being active participant in a quarantined community.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+After notes from another user:
 
 [George Bergman's companion exercises to Rudin's textbook for Chapters 1-7](https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_exs.pdf).
 

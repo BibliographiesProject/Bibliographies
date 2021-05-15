@@ -1,4 +1,4 @@
-#Tensor Calculus#
+# Tensor Calculus
 
 “In mathematics, tensor calculus, tensor analysis, or Ricci calculus is an extension of vector calculus to tensor fields (tensors that may vary over a manifold, e.g. in spacetime).
 Developed by Gregorio Ricci-Curbastro and his student Tullio Levi-Civita it was used by Albert Einstein to develop his theory of general relativity. Contrasted with the infinitesimal calculus, tensor calculus allows presentation of physics equations in a form that is independent of the choice of coordinates on the manifold.

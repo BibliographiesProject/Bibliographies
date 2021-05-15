@@ -1,4 +1,4 @@
-#elementary symbolic logic#
+# Elementary Symblolic Logic
 
 This bibliography covers the basics of symbolic logic - the study of formal reasoning through the manipulation of symbols, a topic that includes propositional logic (involving the logical relationships between atomic statements) and first-order predicate logic (which extends this analysis to statements broken down into atomic subjects, predicates, quantifiers, and variable subjects).  The study of symbolic logic provides insight into logical fallacies, mathematical proof, and boolean logic, among other scientific and mathematical topics.  Higher-order, non-classical, and informal logics are beyond the scope of this bibliography.
 

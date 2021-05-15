@@ -1,4 +1,4 @@
-#Linear Algebra#
+# Linear Algebra
 
 "Linear algebra is the branch of mathematics concerning linear equations such as linear functions such as and their representations through matrices and vector spaces. Linear algebra is central to almost all areas of mathematics. For instance, linear algebra is fundamental in modern presentations of geometry, including for defining basic objects such as lines, planes and rotations. Also, functional analysis may be basically viewed as the application of linear algebra to spaces of functions. Linear algebra is also used in most sciences and engineering areas, because it allows modeling many natural phenomena, and efficiently computing with such models. For nonlinear systems, which cannot be modeled with linear algebra, linear algebra is often used as a first-order approximation." -Wikipedia
 
@@ -19,7 +19,7 @@
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
  *You'll get a good grip with Linear Algebra using this*
 
-* [Linear Algebra, 4th Edition] (https://www.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514) *A great introductory book*
+* [Linear Algebra, 4th Edition](https://www.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514) *A great introductory book*
 
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 

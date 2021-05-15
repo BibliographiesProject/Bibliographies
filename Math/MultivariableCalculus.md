@@ -1,14 +1,14 @@
-#Multivariable calculus#
+# Multivariable Calculus
 
 "Multivariable calculus (also known as multivariate calculus) is the extension of calculus in one variable to calculus with functions of several variables: the differentiation and integration of functions involving multiple variables, rather than just one." -Wikipedia
 
 **Prerequisites:**
 
-* [Basic Algebra] (https://old.reddit.com/r/bibliographies/comments/ajm8wi/basic_algebra/)
+* [Basic Algebra](https://old.reddit.com/r/bibliographies/comments/ajm8wi/basic_algebra/)
 
 * [Precalculus] (https://old.reddit.com/r/bibliographies/comments/ajm8wi/basic_algebra/)
 
-* [Single Variable Calculus] (https://old.reddit.com/r/bibliographies/comments/ajm8wi/basic_algebra/)
+* [Single Variable Calculus](https://old.reddit.com/r/bibliographies/comments/ajm8wi/basic_algebra/)
 
 **Where to Start:**
 
