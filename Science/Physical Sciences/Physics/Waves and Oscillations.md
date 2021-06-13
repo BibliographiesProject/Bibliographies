@@ -1,4 +1,4 @@
-# Waves and Oscialltions
+# Waves and Oscillations
 
 ###### Preliminary
   This subsection will be quite small, due to two reasons; The course isn't taught at many schools, rather the course is wrapped up as a section in their Quantum Mechanics course, their Modern Physics course, Electrodynamics, or Classical Mechanics. Different Colleges and Universities teach their courses differently, so this subsection is to appease the general audience who have a separate course for Waves and Oscillations (or Vibrations). Users who do not, may continue onto the next physics Bibliography.
