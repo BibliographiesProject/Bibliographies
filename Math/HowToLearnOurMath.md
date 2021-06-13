@@ -6,7 +6,7 @@
 
 - [Basic Algebra](https://www.reddit.com/r/bibliographies/comments/ajm8wi/basic_algebra/)
 - [Precalculus](https://www.reddit.com/r/bibliographies/comments/ajm97d/precalculus/)
-- [Methods of Proof](https://www.reddit.com/r/bibliographies/comments/ajq34w/proof_techniques/) *Yes proof techniques for an engineer, it will help understanding proofs in Lnear algebra and Multivariable Calculus*
+- [Methods of Proof](https://www.reddit.com/r/bibliographies/comments/ajq34w/proof_techniques/) *Yes proof techniques for an engineer, it will help understanding proofs in Linear algebra and Multivariable Calculus*
 - [Single Variable Calculus](https://www.reddit.com/r/bibliographies/comments/ajm86t/singlevariable_calculus/)
 - [Multivariable Calculus](https://www.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
 - [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
