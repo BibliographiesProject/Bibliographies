@@ -1,6 +1,6 @@
 # Common Sources that are recommended that should be avoided
 
-## Feynman Lectures
+## [Feynman Lectures](https://www.feynmanlectures.caltech.edu/)
 
 The Feynman Lectures are great for any physicist that has completed their first or second year of introductory physics. Feynman even states the purpose of his lectures began to change over the course when he began to gave it; many graduate students and professors began to drop into his lectures. Another note many forget is that students who are new to S.T.E.M./scienctific thinking in general would not be prepared to read and/or review the material that Feynman covers; his audience were well prepared students that were able to gain admission into one of the top schools in the country. Many of these students were already well prepared for first year courses, and this material as presented would be review. 
 
