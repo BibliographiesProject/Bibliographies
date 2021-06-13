@@ -1,11 +1,5 @@
 # How to learn our math
 
-Hi,
-
-So you want to learn math. Fantastic! Math is a wonderful but grueling subject, which is why here we make sure you can have all the resources at your disposal to make sure you either get that A in your class, make math really easy or make sure you really, really know your math to become a mathematician. But say you're our general audience, you're most likely an an Engineering student. Do you really need to learn about topology or abstract algebra? Nope. So this is how to use our math and our suggested guide. Enjoy!
-
-&nbsp;
-
 ## Engineering
 
 **MechE/Aero/Astro/ChemE/Civil/CompE**
