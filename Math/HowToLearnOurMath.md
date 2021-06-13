@@ -39,10 +39,10 @@
 - [Methods of Proof](https://www.reddit.com/r/bibliographies/comments/ajq34w/proof_techniques/)
 - [Single Variable Calculus](https://www.reddit.com/r/bibliographies/comments/ajm86t/singlevariable_calculus/)
 - [Multivariable Calculus](https://www.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
-- [Variational Calculus](https://old.reddit.com/r/bibliographies/comments/akgu7e/variational_calculus/)
 - [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
 - [Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgt8r/differential_equations/)
 - [Partial Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgtbv/partial_differential_equations/)
+- [Variational Calculus](https://old.reddit.com/r/bibliographies/comments/akgu7e/variational_calculus/)
 - [Tensor Calculus](https://old.reddit.com/r/bibliographies/comments/e3csw3/tensor_calculus/)
 - Statistics for Engineering and the Sciences
 - [Set Theory](https://old.reddit.com/r/bibliographies/comments/aljhaw/set_theory/)
