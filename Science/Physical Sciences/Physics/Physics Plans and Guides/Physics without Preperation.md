@@ -14,7 +14,7 @@
 
 * [Set Theory](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/SetTheory.md)
 
-====
+----
 
 ### Module one
 
