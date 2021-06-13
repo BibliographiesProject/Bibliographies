@@ -1,6 +1,18 @@
-# Physics Plans and Guide
+# Physics without Preperation
 
-## Physics with preparation
+### Pre-module 1
+
+* Basic Algebra
+
+### Pre-module 2
+
+* Triginometry
+
+### Pre-module 3
+
+* Pre-Calculus
+
+* Set Theory
 
 ### Module one
 
