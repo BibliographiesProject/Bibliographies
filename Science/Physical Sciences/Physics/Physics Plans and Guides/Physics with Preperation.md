@@ -23,7 +23,7 @@
 
 * Engineering Statics
 
- * Replaceable Course
+  * Replaceable Course
 
 ### Module four
 
@@ -33,13 +33,13 @@
 
 * Engineering Dynamics
 
- * Replaceable Course
+  * Replaceable Course
 
 ### Module five
 
 * [Math Methods](https://github.com/BibliographiesProject/Bibliographies/blob/fcc317a4dd2eb72e740ed84f960c0b3ad064a613/Science/Physical%20Sciences/Physics/Math%20Methods%20for%20Physicists.md)
 
- * Note: If you can not finish Math Methods before starting the next module, that is fine. 
+  * Note: If you can not finish Math Methods before starting the next module, that is fine. 
 
 * Modern Physics 
 
@@ -49,7 +49,7 @@
 
 * [Linear Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/LinearAlgebra.md)
 
- * Continue on Math Methods if you have not finished at this time
+  * Continue on Math Methods if you have not finished at this time
 
 * [Classical Mechanics](https://github.com/BibliographiesProject/Bibliographies/blob/fcc317a4dd2eb72e740ed84f960c0b3ad064a613/Science/Physical%20Sciences/Physics/Classical%20Mechanics.md)
 
@@ -59,7 +59,7 @@
 
 * Engineering Thermodynamics
 
- * Replaceable Course
+  * Replaceable Course
 
 * [Quantum Mechanics](https://github.com/BibliographiesProject/Bibliographies/blob/fcc317a4dd2eb72e740ed84f960c0b3ad064a613/Science/Physical%20Sciences/Physics/Quantum%20Mechanics.md)
 
@@ -70,7 +70,7 @@
 * [Statistical Mechanics](https://github.com/BibliographiesProject/Bibliographies/blob/fcc317a4dd2eb72e740ed84f960c0b3ad064a613/Science/Physical%20Sciences/Physics/Statistical%20Mechanics.md)
 
 * Fluid Dynamics
- * Replaceable Course but not recommended to replace
+  * Replaceable Course but not recommended to replace
 
 * Choose a programming course or mathematics course
 
