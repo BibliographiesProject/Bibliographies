@@ -24,10 +24,6 @@
 
 **Exams**
 
-* [ Math 405/538 Differential Geometry Final Exam](https://www2.bc.edu/baris-coskunuzer/courses/math405_F13/Math405final_F13_key.pdf)
-
-* [Math 352](http://faculty.bard.edu/belk/math352/)
-
 * [Final Exam of Differential Geometry I ](http://web.ntnu.edu.tw/~494402345/differential_geometry/2008final_differential_geometry.pdf)
 
 * [Final Exam, Math 421 | Differential Geometry: Curves and Surfaces in R3](http://www.professorbray.net/Teaching/421/2018/2013Final.pdf)
