@@ -14,7 +14,7 @@
 
 * [Vector Analysis (Undergraduate Texts in Mathematics)](https://www.amazon.com/Vector-Analysis-Undergraduate-Texts-Mathematics/dp/0387986499) *Our recommendation for an intro book*
 
-* [Geometric Integration Theory (Cornerstones)] https://www.amazon.com/Geometric-Integration-Theory-Cornerstones-Steven/dp/0817646760)
+* [Geometric Integration Theory (Cornerstones)](https://www.amazon.com/Geometric-Integration-Theory-Cornerstones-Steven/dp/0817646760)
 
 * [Introduction to Smooth Manifolds (Graduate Texts in Mathematics)](https://www.amazon.com/Introduction-Smooth-Manifolds-Graduate-Mathematics/dp/0387954481)
 
