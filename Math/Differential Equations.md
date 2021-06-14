@@ -4,11 +4,11 @@
 
 **Prerequisites:**
 
-* [Single Variable Calculus](https://old.reddit.com/r/bibliographies/comments/ajm86t/singlevariable_calculus/)
+* [Single Variable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/SingleVariableCalculus.md)
 
-* [Multivariable Calculus](https://old.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
+* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/MultivariableCalculus.md)
 
-* [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
+* [Linear Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/LinearAlgebra.md)
 
 **Books:**
 
@@ -60,4 +60,4 @@
 
 **Subtopics:**
 
-* [Partial Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/PartialDifferentialEquations.md)
+* [Partial Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/PartialDifferentialEquations.md)
