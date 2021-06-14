@@ -14,7 +14,7 @@ Discrete mathematics is the study of mathematical structures that are fundamenta
 * [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) *This and the book below were copied to be the same, currently changed and fixed to the proper book*
 
 * [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0534359450/) 
-  * **[Errata](https://condor.depaul.edu/~sepp/DMwA3e.htm)**
+  * **[Errata](https://condor.depaul.edu/sepp/DMwA4e.htm)**
   * ISBN-13: 978-0534359454
 
 **Articles:**
