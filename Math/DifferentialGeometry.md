@@ -4,11 +4,11 @@
 
 **Prerequisites:**
 
-* [Multivariable Calculus](https://old.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
+* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/MultivariableCalculus.md)
 
-* [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
-
-* [Topology] (https://old.reddit.com/r/bibliographies/comments/akguwi/topology/)
+* [Linear Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/LinearAlgebra.md)
+* 
+* [Topology](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Topology.md)
 
 **Books:**
 
