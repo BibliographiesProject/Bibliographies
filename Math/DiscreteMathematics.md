@@ -48,6 +48,3 @@ Discrete mathematics is the study of mathematical structures that are fundamenta
 
 * [Syracuse University](http://www.itk.ilstu.edu/faculty/chungli/DIS300/dis300v1.pdf)
 
-**Captains Log**
-
-*  Added in Problems (11/29/19)
