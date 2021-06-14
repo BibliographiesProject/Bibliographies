@@ -7,7 +7,7 @@
 * [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/MultivariableCalculus.md)
 
 * [Linear Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/LinearAlgebra.md)
-* 
+
 * [Topology](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Topology.md)
 
 **Books:**
