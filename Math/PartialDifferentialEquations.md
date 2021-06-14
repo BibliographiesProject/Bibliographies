@@ -4,11 +4,12 @@ In mathematics, a partial differential equation is a differential equation that 
 
 **Prerequisites:**
 
-* [Multivariable Calculus](https://old.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
+* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/MultivariableCalculus.md)
 
-* [ODE](https://old.reddit.com/r/bibliographies/comments/akgt8r/differential_equations/)
+* [Ordinary Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/Differential%20Equations.md)
 
-* [Real Analysis](https://old.reddit.com/r/bibliographies/comments/axuhu3/real_analysis/)
+* [Real Analysis](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/RealAnalysis.md)
+
 
 **Books:**
 
@@ -24,7 +25,7 @@ In mathematics, a partial differential equation is a differential equation that 
 
 **Videos:**
 
-* [Lamar] (http://www.math.lamar.edu/faculty/maesumi/PDE1.html#Lectures)
+* [Lamar](http://www.math.lamar.edu/faculty/maesumi/PDE1.html#Lectures)
 
 * [ICTP](https://www.youtube.com/watch?v=Rq1iRT2LL-8&list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
 
