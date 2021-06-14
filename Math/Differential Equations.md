@@ -1,4 +1,4 @@
-# Differential Equations#
+# Differential Equations
 
 "A differential equation is a mathematical equation that relates some function with its derivatives. In applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two." -Wikipedia
 
