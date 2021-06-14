@@ -42,7 +42,7 @@ Discrete mathematics is the study of mathematical structures that are fundamenta
 
 * [Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
-* [MIT](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+* [MIT](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 
 **Problems & Exam**
 
