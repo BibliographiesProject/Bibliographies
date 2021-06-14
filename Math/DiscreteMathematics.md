@@ -11,11 +11,11 @@ Discrete mathematics is the study of mathematical structures that are fundamenta
 
 * [FREE BOOK - Oscar Levin](https://old.reddit.com/r/bibliographies/comments/axujoo/functional_analysis/)
 
-* [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) *This and the book below were copied to be the same, currently changed and fixed to the proper book*
+* [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) 
 
-* [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0534359450/) 
+* [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-dp-1337694193/dp/1337694193/ref=dp_ob_title_bk) 
   * **[Errata](https://condor.depaul.edu/sepp/DMwA4e.htm)**
-  * ISBN-13: 978-0534359454
+  * ISBN-13: 978-1337694193
 
 **Articles:**
 
