@@ -28,8 +28,6 @@ Discrete mathematics is the study of mathematical structures that are fundamenta
 
 * [Northernwestern](https://sites.math.northwestern.edu/~mlerma/papers/discrete_mathematics-2005.pdf)
 
-* [Warwick](https://www.dcs.warwick.ac.uk/~tiskin/teach/dm1/notes.pdf)
-
 * [UPenn](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1729&context=cis_reports)
 
 * [Common Mistakes](https://courses.cs.washington.edu/courses/cse311/12au/docs/Rosen_SSG_CommonMistakes.pdf)
