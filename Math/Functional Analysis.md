@@ -77,8 +77,6 @@ by John B Conway](https://www.amazon.com/Course-Functional-Analysis-Graduate-Mat
 
 - [IITK](http://home.iitk.ac.in/~chavan/fa_mth405_1.pdf)
 
-- [BRIS UK](https://people.maths.bris.ac.uk/~mazag/fa/)
-
 - [University of Bergen](https://folk.uib.no/ima083/courses_files/Solutions.pdf)
 
 - [PSU Exam](https://math.psu.edu/sites/default/files/public/grad_qe_files/analysiscprob.pdf)
