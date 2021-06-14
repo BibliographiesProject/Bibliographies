@@ -8,13 +8,13 @@ A vast majority of US universities (that I'm aware of) no longer have full cours
 For the sake of my recommendations, I'll assume you're a U.S. undergraduate either in their 2nd or 3rd year taking a full  Waves and Oscillations course.
 
 ###### Pre-Requisites
-* [Electrostatics \& Electromagnetism](https://old.reddit.com/r/bibliographies/comments/ajm6ex/physics/)
+* [General Physics I & II](https://github.com/BibliographiesProject/Bibliographies/blob/fcc317a4dd2eb72e740ed84f960c0b3ad064a613/Science/Physical%20Sciences/Physics/Physics.md)
 
-* [Multi-variable Calculus](https://old.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
+* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/MultivariableCalculus.md)
 
-* [Ordinary Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgt8r/differential_equations/)
+* [Ordinary Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/Differential%20Equations.md)
 
-* [Partial Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgtbv/partial_differential_equations/)
+* [Partial Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Math/PartialDifferentialEquations.md)
 
 
 ###### Books
