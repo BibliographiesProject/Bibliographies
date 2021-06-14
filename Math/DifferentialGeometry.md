@@ -13,14 +13,19 @@
 **Books:**
 
 * [Vector Analysis (Undergraduate Texts in Mathematics)](https://www.amazon.com/Vector-Analysis-Undergraduate-Texts-Mathematics/dp/0387986499) *Our recommendation for an intro book*
+  * ISBN-13: 978-0387986494
 
 * [Geometric Integration Theory (Cornerstones)](https://www.amazon.com/Geometric-Integration-Theory-Cornerstones-Steven/dp/0817646760)
+  * ISBN-13: 978-0817646769
 
 * [Introduction to Smooth Manifolds (Graduate Texts in Mathematics)](https://www.amazon.com/Introduction-Smooth-Manifolds-Graduate-Mathematics/dp/0387954481)
+  * ISBN-13: 978-0387954486
 
 * [Differential Geometry (Wiley Classics Library)](https://www.amazon.com/Differential-Geometry-Wiley-Classics-Library/dp/0471504033) *A great intro book*
+  * ISBN-13: 978-0471504030
 
 * [Elementary Differential Geometry](https://www.amazon.com/Elementary-Differential-Geometry-Christian-B%C3%A4r/dp/0521721490) *Not the greatest book, but does things right*
+  * ISBN-13: 978-0521721493 
 
 **Exams**
 
