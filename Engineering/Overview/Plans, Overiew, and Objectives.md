@@ -4,6 +4,8 @@ The mathematics section has, "How to learn our Math", with listed pre-requisites
 
 # Guide on choosing a field to study
 
+***You should major in a top level Engineering field, and then get a Masters in a sub field***
+
 * Mechanical Engineering
   * Aerospace and Aeronautical Engineering
   * Marine Engineering
@@ -30,9 +32,7 @@ The mathematics section has, "How to learn our Math", with listed pre-requisites
   * Nuclear Engineering (Mechanical and Materials)
   * Mechatronics (Mechanical and Electronics)
 
-***You should major in a top level Engineering field, and then get a Masters in a sub field***
-
-# Pre-requisites
+# Curriculum
 
 ## Engineering
 
