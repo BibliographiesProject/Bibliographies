@@ -51,7 +51,7 @@ Check ever document in every folder for the following things:
 Here's an example:
 
 
-[//]: # (*[Taylor, John R. **Classical Mechanics** University Science Books: 2005.](http://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X) - Undergraduate Book)
+[//]: # ([Taylor, John R. **Classical Mechanics** University Science Books: 2005.](http://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X) - Undergraduate Book)
 
 
 ---
