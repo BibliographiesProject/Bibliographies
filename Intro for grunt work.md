@@ -27,7 +27,7 @@ and it will save while you're typing. Once you are done, and everything is saved
 
 Okay, instead of all that, you can just edit the pages directly on GitHub with your account. No need to sync changes or anything and you just work on the "staging changes" branch. None of your work will save unless you manually save, and you can't review what you changed unlike github desktop. The experience is a lot worse and if you forgot what you just did you might have to start all over.
 
-### Things you have to do
+## Things you have to do
 
 Make sure you are doing work in the "Staging Changes" branch and not the master branch. 
 
