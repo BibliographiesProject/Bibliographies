@@ -42,8 +42,6 @@ Check ever document in every folder for the following things:
 
 * Make sure every link is avilable and able to be reached on your ***non-vpn*** connection. If it isn't (404 error, webpage no longer exists) copy and paste the link ***at the bottom of the document***, and put it in a comment like so. Each comment needs a space before and after it. Edit this document to see what I'm talking about. 
 
-* IF the link is reachable go to this website, [https://archive.org/web/](https://archive.org/web/). Put in your link, and save it. Come back to the document and replace that link. Please make sure the webpage properly loads. If it's a book that is linked, please make sure the pdf loads in the archive link or is able to be downloaded. Try youtube links if they work. If they don't, don't worry about them. 
-
 [//]: # (Your Removed Link and Description go in these parantheses - Then say what kind of link it was, Book, Article, Pre-amble etc.)
 
 [//]: # (Your Removed Link and Description go in these parantheses - Then say what kind of link it was, Book, Article, Pre-amble etc. - This is the proper spacing)
@@ -52,6 +50,14 @@ Here's an example:
 
 
 [//]: # (Taylor, John R. **Classical Mechanics** University Science Books: 2005. http://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X - Undergraduate Book)
+
+This will not be commented out, and will be visible in the document. Make sure something like this doesn't happen:
+
+[//]: # ([Taylor, John R. **Classical Mechanics** University Science Books: 2005.](http://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X)- Undergraduate Book)
+
+
+
+* IF the link is reachable go to this website, [https://archive.org/web/](https://archive.org/web/). Put in your link, and save it. Come back to the document and replace that link. Please make sure the webpage properly loads. If it's a book that is linked, please make sure the pdf loads in the archive link or is able to be downloaded. Try youtube links if they work. If they don't, don't worry about them. 
 
 
 ---
