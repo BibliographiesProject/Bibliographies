@@ -1,10 +1,6 @@
 # The Bibliographies Project
 
----
-
 *Estimated time to read: 4 mins 30 seconds* 
-
----
 
 Hello! Welcome to the Repository for the Bibliographies Project!
 
