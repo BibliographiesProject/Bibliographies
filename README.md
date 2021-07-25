@@ -42,3 +42,10 @@ Each Section corresponds to a different academic field. There are current Work i
 
 See our Wiki/FAQ page on how to contribute to this project: [Click here!]()
 
+## Credits and Acknowledgements
+
+* Reddit User u/GnomeyGustav
+  *   Created this project on May 1st 2015. Seeded with the [original 13 documents](), created the material in the subreddit wiki and the process which original bibliographies were created. 
+  *   This project is open source due to his contributions as well as not intending to "steal" the project from him. 
+  *   Please see here to see the timeline of the the entire project. 
+
