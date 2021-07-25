@@ -2,6 +2,8 @@
 
 *Estimated time to read: 4 mins 30 seconds* 
 
+---
+
 Hello! Welcome to the Repository for the Bibliographies Project!
 
 This project is designed for creating in-depth and quality assured documents, publications and helpful guides for any person interested in learning academic disciplines, or attempting an academic degree. It is an open source project that allows individuals to freely fork the project as per our lisence. 
