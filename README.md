@@ -38,8 +38,11 @@ Each Section corresponds to a different academic field. There are current Work i
 
 See our Wiki/FAQ page on how to contribute to this project: [Click here!]()
 
+<br>
+
 ---
 
+<br>
 
-Estimated time to read: 4 mins 30 seconds 
+*Estimated time to read: 4 mins 30 seconds* 
 
