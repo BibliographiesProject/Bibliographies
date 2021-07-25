@@ -1,6 +1,8 @@
-List of Modules
+# List of Modules
 
-# Math
+* Only used for collaborators in order to link to different publications easily
+
+## Math
 
 * [Basic Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/BasicAlgebra.md)
 
@@ -37,7 +39,8 @@ List of Modules
 * [Functional Analysis](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Functional%20Analysis.md)
 
 * [Stochastic Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/StochasticCalculus.md)
-# Physics
+
+## Physics
 
 * [General Physics I & II](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Physics.md)
 
@@ -57,4 +60,4 @@ List of Modules
 
 * [General Relativity](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/General%20Relativity.md)
 
-# Engineering
+## Engineering
