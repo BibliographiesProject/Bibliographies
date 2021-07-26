@@ -4,6 +4,8 @@ This page is a list of all active bibliographies in the project.
 
 Please see our plans and guides in order to see how to use these bibliographies as a curriculum. 
 
+All these links currently are dead. 
+
 # Science:
 
 ## Physics:
@@ -27,18 +29,24 @@ Please see our plans and guides in order to see how to use these bibliographies 
 * [General Relativity](https://github.com/BibliographiesProject/Bibliographies/blob/a7db5b50a2706250e8cd3441a2d99d311884a6b6/Science/Physical%20Sciences/Physics/General%20Relativity.md)
 
 ## Chemistry:
+
 ## Biology
 
 # Technology:
+
 ## Computer Science
+
 ## Software Development
 
 # Engineering:
-## Mechanical Engineering:
-## Electrical Engineering:
-## Civil Engineering:
-## Chemical Engineering:
 
+## Mechanical Engineering:
+
+## Electrical Engineering:
+
+## Civil Engineering:
+
+## Chemical Engineering:
 
 ## Mathematics 
 
