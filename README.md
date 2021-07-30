@@ -44,6 +44,7 @@ Each Section corresponds to a different academic field. There are current Work i
 
 See our Wiki/FAQ page on how to contribute to this project: [Click here](Wiki/FAQ.md)
 
+
 ## Credits and Acknowledgements
 
 * Reddit User u/GnomeyGustav
