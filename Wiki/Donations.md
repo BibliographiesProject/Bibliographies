@@ -4,7 +4,7 @@ If you decide to donate, your funds will only go towards one avenue as of (7/25/
 
 # [Monero](https://www.getmonero.org/get-started/what-is-monero/)
 
-## Currently Monero is the only accepted donation avenue
+## Currently Monero is the only accepted donation
 
 Donating through Monero is the best option for any user to donate to the project. Follow these steps for a simple solution, and an untraceable way to donate to this project. If there is demand for other avenues of donating, I will consider finding other avenues of dontating. 
 
