@@ -28,7 +28,7 @@ There are three places in order to find our project:
 
 [Reddit](https://www.reddit.com/r/bibliographies/)
 
- * Please use desktop Reddit, as well as only using [old reddit](https://old.reddit.com/r/bibliographies/). Material is loaded faster, as well as having the proper CSS in order to allow "clean" user experience. There are no hooks, and everything is manually updated after changes are made to the repo and site. This is still updated due to having collaborations with other subreddits, moderators, and communities and is a great marketing tool for the project. Publications are 1:1 synced with our repo after 2 months (updates every 6 months on old projects). New publications are released in batches. 
+ * Please use desktop Reddit, as well as only using [old reddit](https://old.reddit.com/r/bibliographies/). Material is loaded faster, as well as having the proper CSS in order to allow "clean" user experience. There are no hooks, and everything is manually updated after changes are made to the repo and site. This is still updated due to having collaborations with other subreddits, moderators, and communities and is a great marketing tool for the project. Publications are 1:1 synced with our repo after 2 months (updates every 4 months on old projects). New publications are released in batches. 
 
 [Discord](https://discord.gg/PYZkaBUSFQ)
 
