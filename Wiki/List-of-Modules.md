@@ -4,41 +4,45 @@
 
 ## Math
 
-* [Basic Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/BasicAlgebra.md)
+  * [How to learn our math](Math/HowToLearnOurMath.md)
 
-* [Precalculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Pre-Calculus.md)
+  * [Basic Algebra](Math/BasicAlgebra.md)
 
-* [Methods of Proof](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/ProofTechniques.md)
+  * [Elementary Symblolic Logic](Math/ElementarySmbolicLogic.md)
 
-* [Single Variable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/SingleVariableCalculus.md)
+  * [Pre-Calculus](Math/Pre-Calculus.md)
 
-* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/MultivariableCalculus.md)
+  * [Proof Techniques](Math/ProofTechniques.md)
 
-* [Linear Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/LinearAlgebra.md)
+  * [Single Variable Calculus](Math/SingleVariableCalculus.md)
 
-* [Ordinary Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Differential%20Equations.md)
+  * [Multivariable Calculus](Math/MultivariableCalculus.md)
 
-* [Set Theory](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/SetTheory.md)
+  * [Discrete Mathematics](Math/DiscreteMathematics.md)
 
-* [Real Analysis](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/RealAnalysis.md)
+  * [Linear Algebra](Math/LinearAlgebra.md)
 
-* [Partial Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/PartialDifferentialEquations.md)
+  * [Differential Equations](Math/Differential-Equations.md)
 
-* [Variational Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/CalculusofVariations.md)
+  * [Real Analysis](Math/RealAnalysis.md)
 
-* [Topology](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Topology.md)
+  * [Partial Differential Equations](Math/PartialDifferentialEquations.md)
 
-* [Differential Geometry](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/DifferentialGeometry.md)
+  * [Set Theory](Math/SetTheory.md)
 
-* [Discrete Mathematics](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/DiscreteMathematics.md)
+  * [Calculus of Variations](Math/CalculusofVariations.md)
 
-* [Complex Analysis](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/ComplexAnalysis.md)
+  * [Topology](Math/Topology.md)
 
-* [Tensor Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/TensorCalculus.md)
+  * [Differential Geometry](Math/DifferentialGeometry.md)
 
-* [Functional Analysis](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Functional%20Analysis.md)
+  * [Complex Analysis](Math/ComplexAnalysis.md)
 
-* [Stochastic Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/StochasticCalculus.md)
+  * [Tensor Calculus](Math/TensorCalculus.md)
+
+  * [Functional Analysis](Math/Functional-Analysis.md)
+    
+  * [Stochastic Calculus](Math/StochasticCalculus.md)
 
 ## Physics
 
