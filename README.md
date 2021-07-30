@@ -10,7 +10,7 @@ Hello! Welcome to the Repository for the Bibliographies Project!
 
 This project is designed for creating in-depth and quality assured documents, publications and helpful guides for any person interested in learning academic disciplines, or attempting an academic degree. It is an open source project that allows individuals to freely fork the project as per our lisence. 
 
-This entire is a *rolling* work in progress. If you find an error, please either comment or pull/fix the issue. This project was a private repo for a large amount of time, and there are two repos, one private for our current [GitBook publication](https://app.gitbook.com/@bibliographies-project/s/bibliographies-project/) as those changes disturb how our repo is set up. A [public repo](https://github.com/BibliographiesProject/Bibliographies) for all our staging and future changes with the ability to download the entire project as a package for local storage and archival needs.
+This entire is a *rolling* work in progress. If you find an error, please either comment or pull/fix the issue. This project was a private repo for a large amount of time, and there are two repos, one private for our current [GitBook publication](https://bibliographies-project.gitbook.io/bibliographies-project/-Mfp1cJIzV3w-QPvTSY3/) as those changes disturb how our repo is set up. A [public repo](https://github.com/BibliographiesProject/Bibliographies) for all our staging and future changes with the ability to download the entire project as a package for local storage and archival needs.
 
 ## Where to find us (in order of updates)
 
