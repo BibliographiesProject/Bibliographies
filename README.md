@@ -12,6 +12,8 @@ This project is designed for creating in-depth and quality assured documents, pu
 
 This entire is a *rolling* work in progress. If you find an error, please either comment or pull/fix the issue. This project was a private repo for a large amount of time, and there are two repos, one private for our current [GitBook publication](https://app.gitbook.com/@bibliographies-project/s/bibliographies-project/) as those changes disturb how our repo is set up. A [public repo](https://github.com/BibliographiesProject/Bibliographies) for all our staging and future changes with the ability to download the entire project as a package for local storage and archival needs.
 
+See the [News and Updates page](Wiki/News-and-Updates.md) for what is currently happening!
+
 ## Where to find us (in order of updates)
 
 There are three places in order to find our project:
