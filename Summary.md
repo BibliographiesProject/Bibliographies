@@ -39,7 +39,7 @@
         * [Physics without Preperation](Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Physics-without-Preperation.md)
         * [Physics with preparation](Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Physics-with-Preperation.md)
         * [Graduate Physics](Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Graduate-Physics.md)
-      * [Physics](Science/Physical-Sciences/Physics/Classical-Mechanics.md)
+      * [Physics](master/science/physical-sciences/physics/physics.md)
       * [Classical Mechanics](Science/Physical-Sciences/Physics/Classical-Mechanics.md)
       * [Waves and Oscillations](Science/Physical-Sciences/Physics/Waves-and-Oscillations.md)
       * [Special relativity](Science/Physical-Sciences/Physics/Special-Relativity.md)
