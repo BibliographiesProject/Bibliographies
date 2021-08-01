@@ -6,7 +6,7 @@
 
 * [How to learn our math](Math/HowToLearnOurMath.md)
 
-* [Basic Algebra](Math/BasicAlgebra.md)
+* [Basic Algebra](Math\BasicAlgebra.md)
 
 * [Elementary Symblolic Logic](Math/ElementarySmbolicLogic.md)
 
