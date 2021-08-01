@@ -4,45 +4,45 @@
 
 ## Math
 
-  * [How to learn our math](Math/HowToLearnOurMath.md)
+* [How to learn our math](Math/HowToLearnOurMath.md)
 
-  * [Basic Algebra](Math/BasicAlgebra.md)
+* [Basic Algebra](Math/BasicAlgebra.md)
 
-  * [Elementary Symblolic Logic](Math/ElementarySmbolicLogic.md)
+* [Elementary Symblolic Logic](Math/ElementarySmbolicLogic.md)
 
-  * [Pre-Calculus](Math/Pre-Calculus.md)
+* [Pre-Calculus](Math/Pre-Calculus.md)
 
-  * [Proof Techniques](Math/ProofTechniques.md)
+* [Proof Techniques](Math/ProofTechniques.md)
 
-  * [Single Variable Calculus](Math/SingleVariableCalculus.md)
+* [Single Variable Calculus](Math/SingleVariableCalculus.md)
 
-  * [Multivariable Calculus](Math/MultivariableCalculus.md)
+* [Multivariable Calculus](Math/MultivariableCalculus.md)
 
-  * [Discrete Mathematics](Math/DiscreteMathematics.md)
+* [Discrete Mathematics](Math/DiscreteMathematics.md)
 
-  * [Linear Algebra](Math/LinearAlgebra.md)
+* [Linear Algebra](Math/LinearAlgebra.md)
 
-  * [Differential Equations](Math/Differential-Equations.md)
+* [Differential Equations](Math/Differential-Equations.md)
 
-  * [Real Analysis](Math/RealAnalysis.md)
+* [Real Analysis](Math/RealAnalysis.md)
 
-  * [Partial Differential Equations](Math/PartialDifferentialEquations.md)
+* [Partial Differential Equations](Math/PartialDifferentialEquations.md)
 
-  * [Set Theory](Math/SetTheory.md)
+* [Set Theory](Math/SetTheory.md)
 
-  * [Calculus of Variations](Math/CalculusofVariations.md)
+* [Calculus of Variations](Math/CalculusofVariations.md)
 
-  * [Topology](Math/Topology.md)
+* [Topology](Math/Topology.md)
 
-  * [Differential Geometry](Math/DifferentialGeometry.md)
+* [Differential Geometry](Math/DifferentialGeometry.md)
 
-  * [Complex Analysis](Math/ComplexAnalysis.md)
+* [Complex Analysis](Math/ComplexAnalysis.md)
 
-  * [Tensor Calculus](Math/TensorCalculus.md)
+* [Tensor Calculus](Math/TensorCalculus.md)
 
-  * [Functional Analysis](Math/Functional-Analysis.md)
-    
-  * [Stochastic Calculus](Math/StochasticCalculus.md)
+* [Functional Analysis](Math/Functional-Analysis.md)
+
+* [Stochastic Calculus](Math/StochasticCalculus.md)
 
 ## Physics
 

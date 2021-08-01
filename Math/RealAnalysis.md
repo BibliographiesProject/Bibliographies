@@ -6,7 +6,7 @@
 
 * [Single Variable Calculus](https://old.reddit.com/r/bibliographies/comments/ajm86t/singlevariable_calculus/)
 
-* [Multivariable Calculus](https://old.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
+* [Multivariable Calculus](MultivariableCalculus.md)
 
 * [Proof Techniques](https://old.reddit.com/r/bibliographies/comments/ajq34w/proof_techniques/)
 
