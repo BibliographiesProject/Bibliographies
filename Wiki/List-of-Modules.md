@@ -4,64 +4,72 @@
 
 ## Math
 
-* [How to learn our math](Math/HowToLearnOurMath.md)
+* [How to learn our math](../Math/HowToLearnOurMath.md)
 
-* [Basic Algebra](Math\BasicAlgebra.md)
+* [Basic Algebra](../Math/BasicAlgebra.md)
 
-* [Elementary Symblolic Logic](Math/ElementarySmbolicLogic.md)
+* [Elementary Symblolic Logic](../Math/ElementarySymbolicLogic.md)
 
-* [Pre-Calculus](Math/Pre-Calculus.md)
+* [Pre-Calculus](../Math/Pre-Calculus.md)
 
-* [Proof Techniques](Math/ProofTechniques.md)
+* [Proof Techniques](../Math/ProofTechniques.md)
 
-* [Single Variable Calculus](Math/SingleVariableCalculus.md)
+* [Single Variable Calculus](../Math/SingleVariableCalculus.md)
 
-* [Multivariable Calculus](Math/MultivariableCalculus.md)
+* [Multivariable Calculus](../Math/MultivariableCalculus.md)
 
-* [Discrete Mathematics](Math/DiscreteMathematics.md)
+* [Discrete Mathematics](../Math/DiscreteMathematics.md)
 
-* [Linear Algebra](Math/LinearAlgebra.md)
+* [Linear Algebra](../Math/LinearAlgebra.md)
 
-* [Differential Equations](Math/Differential-Equations.md)
+* [Differential Equations](../Math/Differential-Equations.md)
 
-* [Real Analysis](Math/RealAnalysis.md)
+* [Real Analysis](../Math/RealAnalysis.md)
 
-* [Partial Differential Equations](Math/PartialDifferentialEquations.md)
+* [Partial Differential Equations](../Math/PartialDifferentialEquations.md)
 
-* [Set Theory](Math/SetTheory.md)
+* [Set Theory](../Math/SetTheory.md)
 
-* [Calculus of Variations](Math/CalculusofVariations.md)
+* [Calculus of Variations](../Math/CalculusofVariations.md)
 
-* [Topology](Math/Topology.md)
+* [Topology](../Math/Topology.md)
 
-* [Differential Geometry](Math/DifferentialGeometry.md)
+* [Differential Geometry](../Math/DifferentialGeometry.md)
 
-* [Complex Analysis](Math/ComplexAnalysis.md)
+* [Complex Analysis](../Math/ComplexAnalysis.md)
 
-* [Tensor Calculus](Math/TensorCalculus.md)
+* [Tensor Calculus](../Math/TensorCalculus.md)
 
-* [Functional Analysis](Math/Functional-Analysis.md)
+* [Functional Analysis](../Math/Functional-Analysis.md)
 
-* [Stochastic Calculus](Math/StochasticCalculus.md)
+* [Stochastic Calculus](../Math/StochasticCalculus.md)
 
 ## Physics
 
-* [General Physics I & II](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Physics.md)
+* [Physics Plans and Guides](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/README.md)
 
-* [Waves & Oscillations](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Waves%20and%20Oscillations.md)
+        * [Physics without Preperation](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Physics-without-Preperation.md)
 
-* [Math Methods](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Math%20Methods%20for%20Physicists.md)
+        * [Physics with preparation](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Physics-with-Preperation.md)
 
-* [Classical Mechanics](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Classical%20Mechanics.md)
+        * [Graduate Physics](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Graduate-Physics.md)
 
-* [Electrodynamics](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Electrodynamics.md)
+* [Physics](../Science/Physical-Sciences/Physics/Physics.md)
 
-* [Special Relativity](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Special%20Relativity.md)
+* [Classical Mechanics](../Science/Physical-Sciences/Physics/Classical-Mechanics.md)
 
-* [Quantum Mechanics](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Quantum%20Mechanics.md)
+* [Waves and Oscillations](../Science/Physical-Sciences/Physics/Waves-and-Oscillations.md)
 
-* [Statistical Mechanics](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Statistical%20Mechanics.md)
+* [Special relativity](../Science/Physical-Sciences/Physics/Special-Relativity.md)
 
-* [General Relativity](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/General%20Relativity.md)
+* [Math Methods for Physicists](../Science/Physical-Sciences/Physics/Math-Methods-for-Physicists.md)
+
+* [Electrodynamics](../Science/Physical-Sciences/Physics/Electrodynamics.md)
+
+* [Quantum Mechanics](../Science/Physical-Sciences/Physics/Quantum-Mechanics.md)
+
+* [Statistical Mechanics](../Science/Physical-Sciences/Physics/Statistical-Mechanics.md)
+
+* [General Relativity](../Science/Physical-Sciences/Physics/General-Relativity.md)
 
 ## Engineering
