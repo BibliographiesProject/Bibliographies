@@ -46,13 +46,13 @@
 
 ## Physics
 
-* [Physics Plans and Guides](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/README.md)
+* [Physics Plans and Guides](/Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/README.md)
 
-        * [Physics without Preperation](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Physics-without-Preperation.md)
+    * [Physics without Preperation](/Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Physics-without-Preperation.md)
 
-        * [Physics with preparation](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Physics-with-Preperation.md)
+    * [Physics with preparation](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Physics-with-Preperation.md)
 
-        * [Graduate Physics](../Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Graduate-Physics.md)
+    * [Graduate Physics](/Science/Physical-Sciences/Physics/Physics-Plans-and-Guides/Graduate-Physics.md)
 
 * [Physics](../Science/Physical-Sciences/Physics/Physics.md)
 
