@@ -4,11 +4,11 @@
 
 **Prerequisites:**
 
-* [Single Variable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/SingleVariableCalculus.md)
+* [Single Variable Calculus](/Math/SingleVariableCalculus.md)
 
-* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/MultivariableCalculus.md)
+* [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
-* [Linear Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/LinearAlgebra.md)
+* [Linear Algebra](/Math/LinearAlgebra.md)
 
 **Books:**
 
