@@ -4,11 +4,11 @@ Calculus of variations is a field of mathematical analysis that uses variations,
 
 **Prerequisites:**
 
-* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/MultivariableCalculus.md)
+* [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
-* [Ordinary Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Differential%20Equations.md)
+* [Ordinary Differential Equations](/Math/Differential%20Equations.md)
 
-* [Partial Differential Equations](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/PartialDifferentialEquations.md)
+* [Partial Differential Equations](/Math/PartialDifferentialEquations.md)
 
 **Books:**
 
