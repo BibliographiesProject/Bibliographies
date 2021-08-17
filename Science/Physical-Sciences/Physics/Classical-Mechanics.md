@@ -4,7 +4,7 @@ Classical mechanics is the oldest subtopic within physics; it contains the ideas
 
 **Prerequisites:**
 
-* [General Physics](/Physics/Physics.md)
+* [General Physics](/Science/Physical-Sciences/Physics/Physics.md)
 
 * [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
