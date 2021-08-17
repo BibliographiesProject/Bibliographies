@@ -18,15 +18,15 @@
 **Nuclear/Electrical/ECE**
 
 - [Basic Algebra](/Math/BasicAlgebra.md)
-- [Precalculus](https://github.com/BibliographiesProject/Bibliographies/blob/physics/Math/Pre-Calculus.md)
-- [Methods of Proof](https://www.reddit.com/r/bibliographies/comments/ajq34w/proof_techniques/) *Yes proof techniques for an engineer, it will help understanding proofs in Lnear algebra and Multivariable Calculus*
-- [Single Variable Calculus](https://www.reddit.com/r/bibliographies/comments/ajm86t/singlevariable_calculus/)
-- [Multivariable Calculus](https://www.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
-- [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
-- [Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgt8r/differential_equations/)
+- [Precalculus](/Math/Pre-Calculus.md)
+- [Methods of Proof](/Math/ProofTechniques.md) *Yes proof techniques for an engineer, it will help understanding proofs in Linear algebra and Multivariable Calculus*
+- [Single Variable Calculus](/Math/SingleVariableCalculus.md)
+- [Multivariable Calculus](/Math/MultivariableCalculus.md)
+- [Linear Algebra](/Math/LinearAlgebra.md)
+- [Differential Equations](/Math/Differential-Equations.md)
 - Statistics for Engineering and the Sciences
-- [Partial Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgtbv/partial_differential_equations/) *Yes you can learn PDE without Real Analysis*
-- [Complex Analysis](https://old.reddit.com/r/bibliographies/comments/axuhxy/complex_analysis/)
+- [Partial Differential Equations](/Math/PartialDifferentialEquations.md) *Yes you can learn PDE without Real Analysis*
+- [Complex Analysis](/Math/ComplexAnalysis.md)
 
 
 
