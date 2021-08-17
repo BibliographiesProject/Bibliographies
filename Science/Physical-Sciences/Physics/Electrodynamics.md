@@ -24,7 +24,7 @@ Eventually, readers will learn that the electric and magnetic fields are two asp
 
 ###### Undergraduate Books
 
- * [Griffiths, David J.  **Introduction to Electrodynamics**.  Addison-Wesley: 2012, 4th ed.](http://www.amazon.com/Introduction-Electrodynamics-4th-David-Griffiths/dp/0321856562) *Undergraduate-level introductory text, Griffiths is commonly used across most Universities at the current moment. Loved by most, hated by the vocal minority; it's the best undergraduate Electrodynamics book that you can get*
+ * [  Griffiths, D. J. (2013). *Introduction to Electrodynamics* (4th ed.). Pearson Higher Ed.](http://www.amazon.com/Introduction-Electrodynamics-4th-David-Griffiths/dp/0321856562) *Undergraduate-level introductory text, Griffiths is commonly used across most Universities at the current moment. Loved by most, hated by the vocal minority; it's the best undergraduate Electrodynamics book that you can get*
 
  * [Electricity and Magnetism 3rd Edition by Edward M. Purcell (Author), David J. Morin (Author)](https://archive.org/details/ElectricityAndMagnetismPurcell_201701/page/n423/mode/2up) *Written by Nobel Laureate and generally regarded to be chock full of theory, though it is a couple of decades old, so you'll find assumptions and experimental evidence to be quite indicative of the era it was written in*
 
