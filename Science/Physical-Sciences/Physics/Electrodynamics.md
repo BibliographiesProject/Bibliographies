@@ -6,13 +6,13 @@ Electrodynamics (or "Electricity and Magnetism", as it is sometimes called in in
 
 Before studying electrodynamics in depth, readers should have completed a study of general physics by working through an university-level introductory text.  Readers should also have completed a classical mechanics text, but this is not necessarily required; these two subtopics can be studied in parallel.  Elementary calculus is required, and readers should also be familiar with vectors.  Understanding vector and multivariable calculus is also recommended.
 
-* [Multivariable Calculus]()
+* [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
 * [Vector Calculus] *No technical bib on this, math methods and most Multivariable textbooks will teach this*
 
-* [Ordinary Differential Equations]() *Grad Level*
+* [Ordinary Differential Equations](/Math/Differential-Equations.md)
 
-* [Partial Differential Equations]()*Grad Level*
+* [Partial Differential Equations](/Math/PartialDifferentialEquations.md)
 
 **Where to Start:**
 
