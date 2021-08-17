@@ -39,7 +39,7 @@ Eventually, readers will learn that the electric and magnetic fields are two asp
 
  * [  Panofsky, W. K. H., &#38; Phillips, M. (2012). *Classical Electricity and Magnetism* (2nd ed.). Dover Publication.](http://www.amazon.com/Classical-Electricity-Magnetism-Second-Physics/dp/0486439240) *An alternative graduate-level introductory textbook, not as thorough as Jackson but also not as hard on readers - and it's a much cheaper Dover book*
 
- * [  Smythe, W. R. (1968). *Static and Dynamic Electricity*. McGraw-Hill Companies.](https://archive.org/details/StaticAndDynamicElectricity/page/n5/mode/2up) *Thought Jackson was easy? Are you a massive masochist? Former reference for the field in the 20th century, Smythes' course caused Nobel Laureate Vernon Smith to switch majors*
+ * [  Smythe, W. R. (1968). *Static and Dynamic Electricity*. McGraw-Hill Companies.](https://archive.org/details/staticdynamicele0000smyt_e3w8/page/n651/mode/2up) *Thought Jackson was easy? Are you a massive masochist? Former reference for the field in the 20th century, Smythes' course caused Nobel Laureate Vernon Smith to switch majors*
 
 
 **Lecture Notes:**
