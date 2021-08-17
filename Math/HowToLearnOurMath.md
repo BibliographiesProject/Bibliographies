@@ -4,7 +4,7 @@
 
 **MechE/Aero/Astro/ChemE/Civil/CompE**
 
-- [Basic Algebra](https://www.reddit.com/r/bibliographies/comments/ajm8wi/basic_algebra/)
+- [Basic Algebra](/Math/BasicAlgebra.md)
 - [Precalculus](https://www.reddit.com/r/bibliographies/comments/ajm97d/precalculus/)
 - [Methods of Proof](https://www.reddit.com/r/bibliographies/comments/ajq34w/proof_techniques/) *Yes proof techniques for an engineer, it will help understanding proofs in Linear algebra and Multivariable Calculus*
 - [Single Variable Calculus](https://www.reddit.com/r/bibliographies/comments/ajm86t/singlevariable_calculus/)
@@ -17,7 +17,7 @@
 
 **Nuclear/Electrical/ECE**
 
-- [Basic Algebra](https://www.reddit.com/r/bibliographies/comments/ajm8wi/basic_algebra/)
+- [Basic Algebra](/Math/BasicAlgebra.md)
 - [Precalculus](https://www.reddit.com/r/bibliographies/comments/ajm97d/precalculus/)
 - [Methods of Proof](https://www.reddit.com/r/bibliographies/comments/ajq34w/proof_techniques/) *Yes proof techniques for an engineer, it will help understanding proofs in Lnear algebra and Multivariable Calculus*
 - [Single Variable Calculus](https://www.reddit.com/r/bibliographies/comments/ajm86t/singlevariable_calculus/)
