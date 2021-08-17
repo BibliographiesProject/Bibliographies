@@ -27,6 +27,7 @@ After completing a study of classical mechanics, readers trying to obtain a basi
   *  ISBN: 978-1891389221
 
 * [  Marion, J. B., &#38; Thornton, S. T. (2013). *Classical Dynamics of Particles and Systems* (4th ed.). Academic Press](http://www.amazon.com/Classical-Dynamics-Particles-Systems-4th/dp/0030973023) *A very commonly-used undergraduate textbook*
+  *  ISBN-13: 978-0030973024  
 
 
 ###### Graduate Books
