@@ -4,15 +4,15 @@
 
 **Prerequisites:**
 
-* [Methods of Proof](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/ProofTechniques.md)
+* [Methods of Proof](/Math/ProofTechniques.md)
 
-* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/MultivariableCalculus.md)
+* [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
-* [Linear Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/LinearAlgebra.md)
+* [Linear Algebra](/Math/LinearAlgebra.md)
 
-* [Set Theory](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/SetTheory.md)
+* [Set Theory](/Math/SetTheory.md)
 
-* [Real Analysis](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/RealAnalysis.md)
+* [Real Analysis](/Math/RealAnalysis.md)
 
 
 **Books:**
