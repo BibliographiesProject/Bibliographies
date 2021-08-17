@@ -4,11 +4,11 @@
 
 **Prerequisites:**
 
-* [Multivariable Calculus](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/MultivariableCalculus.md)
+* [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
-* [Linear Algebra](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/LinearAlgebra.md)
+* [Linear Algebra](/Math/LinearAlgebra.md)
 
-* [Topology](https://github.com/BibliographiesProject/Bibliographies/blob/master/Math/Topology.md)
+* [Topology](/Math/Topology.md)
 
 **Books:**
 
