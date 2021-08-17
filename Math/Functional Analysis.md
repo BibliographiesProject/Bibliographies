@@ -5,14 +5,14 @@ Functional analysis is a branch of mathematical analysis, the core of which is f
 
 **Prerequisites:**
 
-- [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
+- [Linear Algebra](/Math/LinearAlgebra.md)
 
-- [Set Theory](https://old.reddit.com/r/bibliographies/comments/aljhaw/set_theory/)
+- [Set Theory](/Math/SetTheory.md)
 
-- [Real Analysis](https://old.reddit.com/r/bibliographies/comments/axuhu3/real_analysis/)
+- [Real Analysis](/Math/RealAnalysis.md)
 
-- [Topology](https://old.reddit.com/r/bibliographies/comments/akguwi/topology/)
-
+- [Topology](/Math/Topology.md)
+https://github.com/BibliographiesProject/Bibliographies/blob/physics/Math/Topology.md
 - Basic measure theory, esp Lebesgue measurable functions
 - Lp spaces
 -  Basic Banach and Hilbert space theory
