@@ -23,10 +23,10 @@ After completing a study of classical mechanics, readers trying to obtain a basi
 
 ###### Undergraduate Books
 
- * [Taylor, J. R. (2004). Classical mechanics. Univ Science Books.](http://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X) *Taylor pretty much kills the competition in the Undergraduate area*
-  *  ISBN: 978-1891389221
+* [Taylor, J. R. (2004). Classical mechanics. Univ Science Books.](http://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X) *Taylor pretty much kills the competition in the Undergraduate area*
+ *  ISBN: 978-1891389221
 
- * [Marion, Jerry B. and Thornton, Stephen T. **Classical Dynamics of Particles and Systems**. Saunders College Publications: 1995, 4th ed.](http://www.amazon.com/Classical-Dynamics-Particles-Systems-4th/dp/0030973023) *A very commonly-used undergraduate textbook*
+* [Marion, Jerry B. and Thornton, Stephen T. **Classical Dynamics of Particles and Systems**. Saunders College Publications: 1995, 4th ed.](http://www.amazon.com/Classical-Dynamics-Particles-Systems-4th/dp/0030973023) *A very commonly-used undergraduate textbook*
 
 
 ###### Graduate Books
