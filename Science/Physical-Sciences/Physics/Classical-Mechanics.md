@@ -4,11 +4,11 @@ Classical mechanics is the oldest subtopic within physics; it contains the ideas
 
 **Prerequisites:**
 
-* [General Physics](https://github.com/BibliographiesProject/Bibliographies/blob/master/Science/Physical%20Sciences/Physics/Physics.md)
+* [General Physics](/Physical-Sciences/Physics/Physics.md)
 
-* [Multivariable Calculus](https://www.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
+* [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
-* [Ordinary Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgt8r/differential_equations/)
+* [Ordinary Differential Equations](/Math/Differential-Equations.md)
 
 
 **Where to Start:**
