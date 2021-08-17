@@ -40,7 +40,8 @@ After completing a study of classical mechanics, readers trying to obtain a basi
 
  * [José, Jorge V. and Saletan, Eugene J. **Classical Dynamics: A Contemporary Approach**.  Cambridge University Press: 1998, 1st ed.](http://www.amazon.com/Classical-Dynamics-Contemporary-Jorge-Jos/dp/0521636361) *An advanced graduate-level text that utilizes more modern techniques - be warned, you will need a companion textbook in differential geometry to learn from this book*
 
- * [Sussman, Gerald Jay and Wisdom, Jack.  **Structure and Interpretation of Classical Mechanics**.  MIT Press: 2001](http://mitpress.mit.edu/sites/default/files/titles/content/sicm/book.html) *Another choice for graduate-level classical mechanics, with the advantage of being freely available online*
+ * [  Sussman, G. J., &#38; Wisdom, J. (2015). *Structure and Interpretation of Classical Mechanics*. MIT Press.](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics-second-edition) *Another choice for graduate-level classical mechanics, with the advantage of being freely available online*
+   * ISBN: 978-0262028967  
 
 **Lecture Notes:**
 
