@@ -34,7 +34,7 @@ Eventually, readers will learn that the electric and magnetic fields are two asp
 
 
  * [  Jackson, J. D. (2007). *Classical Electrodynamics* (3rd ed.). John Wiley &#38; Sons.](http://www.amazon.com/Classical-Electrodynamics-Third-David-Jackson/dp/047130932X) *The standard yet somewhat-controversial graduate-level introductory textbook, this book is extremely comprehensive, with very challenging, sometimes overly-technical problems to work - it may not be the best choice for self-study, but few good alternatives exist*
-  * ISBN-13: 978-0471309321  
+   * ISBN-13: 978-0471309321  
 
  * [  Landau, L. D., &#38; Lifshitz, E. M. (1975). *The Classical Theory of Fields* (4th ed., Vol. 2). Butterworth-Heinemann.
 ](http://www.amazon.com/Classical-Theory-Fields-Fourth-Theoretical/dp/0750627689) *An outstanding supplement to a graduate-level textbook - approaches the theory from the basic ideas about electromagnetic fields rather than building up from electrostatics, also discusses gravitational fields (general relativity)). Same Level as Jackson*
