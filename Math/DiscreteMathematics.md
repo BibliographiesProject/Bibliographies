@@ -4,8 +4,8 @@ Discrete mathematics is the study of mathematical structures that are fundamenta
 
 **Prerequisites:**
 
-- [Basic Algebra](Math/BasicAlgebra.md)
-- [Pre-calculus](Math/Pre-Calculus.md)
+- [Basic Algebra](/Math/BasicAlgebra.md)
+- [Pre-calculus](/Math/Pre-Calculus.md)
 
 **Books:**
 
