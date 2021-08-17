@@ -32,13 +32,13 @@ After completing a study of classical mechanics, readers trying to obtain a basi
 
 ###### Graduate Books
 
- * [Goldstein, Robert. **Classical Mechanics**. Addison-Wesley: 2001, 3rd ed.](http://www.amazon.com/Classical-Mechanics-3rd-Herbert-Goldstein/dp/0201657023) *The standard graduate-level textbook*
+ * [Goldstein, H. (2011). *Classical Mechanics* (3rd ed.). Pearson.](http://www.amazon.com/Classical-Mechanics-3rd-Herbert-Goldstein/dp/0201657023) *The standard graduate-level textbook*
 
- * [Landau, L.D. **Mechanics: Course of Theoretical Physics, Vol. 1**.  Butterworth-Heinemann: 1976, 3rd ed.](http://www.amazon.com/Mechanics-Third-Edition-Theoretical-Physics/dp/0750628960) *The first volume in a classic series, great as a supplement to a graduate-level text*
+ * [Landau, L. D., &#38; Lifshitz, E. M. (1960). *Mechanics* (3rd ed.). CUP Archive.](http://www.amazon.com/Mechanics-Third-Edition-Theoretical-Physics/dp/0750628960) *The first volume in a classic series, great as a supplement to a graduate-level text*
 
- * [Arnold, V.I. **Mathematical Methods of Classical Mechanics**.  Springer: 1997, 2nd ed.](http://www.amazon.com/Mathematical-Classical-Mechanics-Graduate-Mathematics/dp/0387968903/ref=sr_1_1?ie=UTF8&qid=1431545776&sr=8-1&keywords=arnold+classical+mechanics) *Advanced classical mechanics written in a terse, mathematical style - will be most appreciated by those coming from a background in mathematics*
+ * [Arnold, V. I. (2013). *Mathematical Methods of Classical Mechanics* (K. Vogtmann &#38; A. Weinstein, Trans.). Springer Science &#38; Business Media.](http://www.amazon.com/Mathematical-Classical-Mechanics-Graduate-Mathematics/dp/0387968903/ref=sr_1_1?ie=UTF8&qid=1431545776&sr=8-1&keywords=arnold+classical+mechanics) *Advanced classical mechanics written in a terse, mathematical style - will be most appreciated by those coming from a background in mathematics*
 
- * [José, Jorge V. and Saletan, Eugene J. **Classical Dynamics: A Contemporary Approach**.  Cambridge University Press: 1998, 1st ed.](http://www.amazon.com/Classical-Dynamics-Contemporary-Jorge-Jos/dp/0521636361) *An advanced graduate-level text that utilizes more modern techniques - be warned, you will need a companion textbook in differential geometry to learn from this book*
+ * [  José, J. V., &#38; Saletan, E. J. (1998). *Classical Dynamics: A Contemporary Approach. Cambridge University Press.*](http://www.amazon.com/Classical-Dynamics-Contemporary-Jorge-Jos/dp/0521636361) *An advanced graduate-level text that utilizes more modern techniques - be warned, you will need a companion textbook in differential geometry to learn from this book*
 
  * [  Sussman, G. J., &#38; Wisdom, J. (2015). *Structure and Interpretation of Classical Mechanics*. MIT Press.](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics-second-edition) *Another choice for graduate-level classical mechanics, with the advantage of being freely available online*
    * ISBN: 978-0262028967  
