@@ -25,21 +25,26 @@ Eventually, readers will learn that the electric and magnetic fields are two asp
 ###### Undergraduate Books
 
  * [  Griffiths, D. J. (2013). *Introduction to Electrodynamics* (4th ed.). Pearson Higher Ed.](http://www.amazon.com/Introduction-Electrodynamics-4th-David-Griffiths/dp/0321856562) *Undergraduate-level introductory text, Griffiths is commonly used across most Universities at the current moment. Loved by most, hated by the vocal minority; it's the best undergraduate Electrodynamics book that you can get*
-   * ISBN13: 978-0321856562 
+   * ISBN-13: 978-0321856562 
 
- * [Electricity and Magnetism 3rd Edition by Edward M. Purcell (Author), David J. Morin (Author)](https://archive.org/details/ElectricityAndMagnetismPurcell_201701/page/n423/mode/2up) *Written by Nobel Laureate and generally regarded to be chock full of theory, though it is a couple of decades old, so you'll find assumptions and experimental evidence to be quite indicative of the era it was written in*
+ * [Electricity and Magnetism 3rd Edition by Edward M. Purcell (Author), David J. Morin (Author)](https://archive.org/details/ElectricityAndMagnetismPurcell3rdEdition) *Written by Nobel Laureate and generally regarded to be chock full of theory, though it is a couple of decades old, so you'll find assumptions and experimental evidence to be quite indicative of the era it was written in*
+   * ISBN-13: 978-1107014022 
 
 ###### Graduate Books
 
 
  * [  Jackson, J. D. (2007). *Classical Electrodynamics* (3rd ed.). John Wiley &#38; Sons.](http://www.amazon.com/Classical-Electrodynamics-Third-David-Jackson/dp/047130932X) *The standard yet somewhat-controversial graduate-level introductory textbook, this book is extremely comprehensive, with very challenging, sometimes overly-technical problems to work - it may not be the best choice for self-study, but few good alternatives exist*
+  * ISBN-13: 978-0471309321  
 
  * [  Landau, L. D., &#38; Lifshitz, E. M. (1975). *The Classical Theory of Fields* (4th ed., Vol. 2). Butterworth-Heinemann.
 ](http://www.amazon.com/Classical-Theory-Fields-Fourth-Theoretical/dp/0750627689) *An outstanding supplement to a graduate-level textbook - approaches the theory from the basic ideas about electromagnetic fields rather than building up from electrostatics, also discusses gravitational fields (general relativity)). Same Level as Jackson*
+  *  ISBN-13: 978-0750627689 
 
  * [  Panofsky, W. K. H., &#38; Phillips, M. (2012). *Classical Electricity and Magnetism* (2nd ed.). Dover Publication.](http://www.amazon.com/Classical-Electricity-Magnetism-Second-Physics/dp/0486439240) *An alternative graduate-level introductory textbook, not as thorough as Jackson but also not as hard on readers - and it's a much cheaper Dover book*
+   *  ISBN-13: 978-0486439242  
 
  * [  Smythe, W. R. (1968). *Static and Dynamic Electricity*. McGraw-Hill Companies.](https://archive.org/details/staticdynamicele0000smyt_e3w8/page/n651/mode/2up) *Thought Jackson was easy? Are you a massive masochist? Former reference for the field in the 20th century, Smythes' course caused Nobel Laureate Vernon Smith to switch majors*
+    *  ISBN-13: 978-0891169178 
 
 
 **Lecture Notes:**
