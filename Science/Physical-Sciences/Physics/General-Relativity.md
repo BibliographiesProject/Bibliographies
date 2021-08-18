@@ -2,13 +2,13 @@
 
 **Prerequisites:**
 
-* [Differential Geometry](https://old.reddit.com/r/bibliographies/comments/akguun/differential_geometry/) *
+* [Differential Geometry](/Math/DifferentialGeometry.md)
 
-* [Quantum Mechanics](https://old.reddit.com/r/bibliographies/comments/ajm9k6/quantum_mechanics/) **
+* [Quantum Mechanics](/Science/Physical-Sciences/Physics/Quantum-Mechanics.md)
 
-* [Special Relativity](https://old.reddit.com/r/bibliographies/comments/ej5k5n/special_relativity/)
+* [Special Relativity](/Science/Physical-Sciences/Physics/Special-Relativity.md)
 
-* [Electromagnetism](https://old.reddit.com/r/bibliographies/comments/ajm7zq/electrodynamics/)
+* [Electrodynamics](/Science/Physical-Sciences/Physics/Electrodynamics.md)
 
 
 **Books**
@@ -54,10 +54,3 @@
 * [Sergei Winitzki](https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_14_15/TC1_-General-Relativity/Exercises-for-TC1_General-Relativity/WS06-T6-All_Problems_and_Solutions.pdf)
 * [Pamona College](http://pages.pomona.edu/~tmoore/grw/Resources/GRWBook.pdf)
 * [Trinity College Dublin](https://www.maths.tcd.ie/~houghton/TEACHING/442/442-04-05/442PS.php)
-
-**Subtopics:**l
-* Subtopic - Bibliography does not exist
-
-**Captain's Log**
-
-* 3/25/2020: Susskind Lecture link broke, re-added proper link
