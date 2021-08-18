@@ -6,15 +6,13 @@ Math methods is completely different than Mathematical Physics. Do not confuse e
 
 Math Methods bridges the gap between Multivariable Calculus/Linear Algebra/Ordinary Differential Equations to complex mathematical areas which Physics Majors need to be fluent in, but not masters in. For example, most Physicists and/or majors do not need to be proficient in most areas of Real Analysis, Group Theory or Probability and Statistics. Some proficiency is required, but not to the level as Mathematicians and/or majors would need to be at. Math Methods essentially covers these areas to the degree of which you may require and not much afterwards.
 
-In simple plain English, Math Methods takes out the bullshit and fluff that physicists don't require in their Mathematics.
-
 **Prerequisites:**
 
-* [Multivariable Calculus](https://old.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
+* [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
-* [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
+* [Linear Algebra](/Math/LinearAlgebra.md)
 
-* [Ordinary Differential Equations](https://old.reddit.com/r/bibliographies/comments/akgt8r/differential_equations/)
+* [Ordinary Differential Equations](/Math/Differential-Equations.md)
 
 **Books:**
 
