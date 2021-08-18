@@ -75,7 +75,8 @@
 - [Precalculus](/Math/Pre-Calculus.md)
 - [Methods of Proof](/Math/ProofTechniques.md) *Yes proof techniques for an engineer, it will help understanding proofs in Linear algebra and Multivariable Calculus*
 - [Single Variable Calculus](/Math/SingleVariableCalculus.md)
-- [Multivariable Calculus](/Math/MultivariableCalculus.md)- Statistics for Engineering and the Sciences
+- [Multivariable Calculus](/Math/MultivariableCalculus.md)
+- Statistics for Engineering and the Sciences
 - [Linear Algebra](/Math/LinearAlgebra.md)
 - [Differential Equations](/Math/Differential-Equations.md)
 - [Partial Differential Equations](/Math/PartialDifferentialEquations.md)*Only if you're into computations*
