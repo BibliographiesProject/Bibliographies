@@ -13,16 +13,20 @@
 
 **Books**
 
-* [Carrol](https://www.amazon.com/Spacetime-Geometry-Introduction-General-Relativity/dp/0805387323) *A fantastic book, my personal recommendation.*
+* [Carroll, S. M. (2019). *Spacetime and Geometry*. Cambridge University Press.](https://www.amazon.com/Spacetime-Geometry-Introduction-General-Relativity/dp/0805387323) *A fantastic book, my personal recommendation.*
+  *  ISBN-13: 978-0805387322 
 
-* [Weinberg](https://archive.org/details/WeinbergS.GravitationAndCosmology..PrinciplesAndApplicationsOfTheGeneralTheoryOf) *A really good tool for learning all the bits of General Relativity*
+* [Weinberg, S. (2008). *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity* (1st ed.). John Wiley &#38; Sons, Inc.](https://archive.org/details/WeinbergS.GravitationAndCosmology..PrinciplesAndApplicationsOfTheGeneralTheoryOf) *A really good tool for learning all the bits of General Relativity*
+  *  ISBN-13: 978-0471925675 
 
 
-* [General Relativity and the Einstein Equations by Yvonne Choquet-Bruhat](https://www.amazon.com/Relativity-Einstein-Equations-Mathematical-Monographs/dp/0199230722)  *A rigourous introduction to GR and SR. "Topics are: 1. Lorentz Geometry 2. Special Relativity 3. General Relativity and Einstein's Equations 4. Schwarzchild spacetime and black holes 5. Cosmology 6. Local Cauchy Problem 7. Constraints 8. Other hyperbolic-elliptic well-posed systems 9. Relativistic fluids 10. Relativistic kinetic theory 11. Progressive waves 12. Global hyperbolicity and causality 13. Singularities 14. Stationary spacetimes and black holes 15. Global existance theorems and then 200 pages of appendices on functional analysis and field theory techniques "* -u/Orion952
+* [Choquet-Bruhat, Y. (2009). *General Relativity and the Einstein Equations*. Oxford University Press.](https://www.amazon.com/Relativity-Einstein-Equations-Mathematical-Monographs/dp/0199230722)
+  *  ISBN-13: 978-0199230723
 
-* [A First Course in General Relativity by Schutz](https://www.amazon.com/First-Course-General-Relativity/dp/0521887054) *Also quite tough introduction to GR, but the overall winner of the best book to buy here. You should use this book while going through the rest of the bibliography.*
+* [Schutz, B. (2009). *A First Course in General Relativity*. Cambridge University Press.](https://www.amazon.com/First-Course-General-Relativity/dp/0521887054) *Also quite tough introduction to GR, but the overall winner of the best book to buy here. You should use this book while going through the rest of the bibliography.*
+  *  ISBN-13: 978-0521887052 
 
-* [Gravitation Hardcover by Charles W. Misner (Author, Introduction), Kip S. Thorne (Author, Introduction), John Archibald Wheeler (Author), David I. Kaiser (Preface)](https://www.amazon.com/Gravitation-Charles-W-Misner/dp/0691177791?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0691177791)
+* [Misner, C. W., Thorne, K. S., &#38; Wheeler, J. A. (2017). *Gravitation*. Princeton University Press.](hhttps://www.amazon.com/Gravitation-Charles-W-Misner/dp/0691177791?SubscriptionId=AKIAILSHYYTFIVPWUY6Q)
 
 
 * Also see: Books for general relativity, URL (version: 2013-09-18): https://physics.stackexchange.com/q/376
