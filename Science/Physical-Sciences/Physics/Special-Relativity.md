@@ -6,13 +6,14 @@
 
 Depending on the book:
 
-- [Multivariable Calculus](https://www.reddit.com/r/bibliographies/comments/ak9let/multivariable_calculus/)
+- [Multivariable Calculus](/Math/MultivariableCalculus.md)
 
-- [Linear Algebra](https://old.reddit.com/r/bibliographies/comments/akgoky/linear_algebra/)
+- [Linear Algebra](/Math/LinearAlgebra.md)
 
 **Books**
 
-* [Special Relativity (M.I.T. Introductory Physics) First Edition by A.P. French](https://www.amazon.com/Special-Relativity-M-I-T-Introductory-Physics/dp/0393097935)
+* [  French, A. P. (2017). *Special Relativity*. CRC Press.](https://www.amazon.com/Special-Relativity-M-I-T-Introductory-Physics/dp/0393097935)
+  *  ISBN-13 ‏ : ‎ 978-0393097931 
 
 * [Special Relativity First Edition by Robert Resnick](https://www.amazon.com/Special-Relativity-P-Robert-Resnick/dp/0471717258)
 
@@ -44,4 +45,3 @@ Depending on the book:
 * Modern Physics
 
 * [General Relativity](https://old.reddit.com/r/bibliographies/comments/e6dje9/general_relativity/#thing_t3_e6dje9)
-
