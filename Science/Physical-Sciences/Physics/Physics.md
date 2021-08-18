@@ -60,46 +60,7 @@ You may wish to supplement your textbook reading with conceptual readings (like 
 * [/r/AskPhysics](http://np.reddit.com/r/askphysics)
 * [/r/physicsbooks](http://np.reddit.com/r/physicsbooks)
 
-**Subtopics:**
-
-* Astronomy and Astrophysics
-
-* AMO (Atomic, Molecular, Optical Physics)
-
-* Biological Physics
-
-* [Classical Mechanics](https://old.reddit.com/r/bibliographies/comments/ajm7ru/classical_mechanics/)
-
-* Chemical Physics
-
-* Soft Condensed Matter Physics
-
-* Hard Condensed Matter Physics
-
-* [Electrodynamics]
-(https://old.reddit.com/r/bibliographies/comments/ajm7zq/electrodynamics/)
-
-* Experiments in Basic Physics
-
-* High Energy Physics
-
-* Mathematical Physics
-
-* Nuclear Physics
-
-* Optics and Waves
-
-* Plasma Physics
-
-* [Quantum Mechanics]
-(https://old.reddit.com/r/bibliographies/comments/ajm9k6/quantum_mechanics/)
-* Research Methods in Physics
-
-* Solid-State Physics
-
-* Special and General Relativity
-
-* Statistical Mechanics
-
 [comment]: <> (Testing)
+
+
 
