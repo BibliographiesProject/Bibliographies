@@ -11,10 +11,12 @@
 * Download GitHub Desktop
  * Sign in using GitHub Account
 * Go to clone Repository by URL. 
- * Copy Paste this, https://github.com/Bibliographies-Admin/Ethics.git into the url pastebin
+ * Copy Paste this into clone a repository
+ * OR IF POSSIBLE, just clone any available repository you have, ***AND CHANGE INTO THE STAGING-CHANGES BRANCH***
  * Clone the Repository to your machine. 
 * Set VSCode as your external editor
 * You should now be able to push/pull any documents, as long as GitHub desktop shows different files. 
+* Make sure at the bottom of VS Code, you change the branch into Staging-Changes. 
 ---
 
 You should download GitHub Desktop/VS Code
