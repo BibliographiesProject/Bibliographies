@@ -1,7 +1,5 @@
 # Intro
 
-Thanks again for helping out I really appreciate this. I'm writing this while I should be studying for my exam tommorow, but I think I should be good.
-
 You should download GitHub Desktop/VS Code
 
 Check to see if you see my projects in this page: https://github.com/BibliographiesProject/Bibliographies/projects. If not don't worry about it. If you do, please change each note to the respective column while you're working. Easier for both you and I. 
