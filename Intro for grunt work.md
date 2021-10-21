@@ -19,13 +19,14 @@
 * Make sure at the bottom of VS Code, you change the branch into Staging-Changes. 
 ---
 
+<!---
+
 You should download GitHub Desktop/VS Code
 
 Check to see if you see my projects in this page: https://github.com/BibliographiesProject/Bibliographies/projects. If not don't worry about it. If you do, please change each note to the respective column while you're working. Easier for both you and I. 
 
 Have this webiste open all the time: https://www.markdownguide.org/basic-syntax. This is the "language" you will be writing in all the time. Follow my format if you ever have trouble. 
 
-<!---
 
 ## GitHub Desktop/VS Code/AutoSave
 
