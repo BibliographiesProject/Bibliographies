@@ -42,11 +42,11 @@ On GitHub desktop there should be a little prompt that in the middle of your scr
 VS Code is where you can make really easy changes. You save, and then go over to GitHub Desktop and be able to push or pull changes to the github repo on the website. If you change it on your computer and push it will change on the repo wesbite. Save the file with .md extension as you're working with markdown. If you go in vscode and click the cubes on the side panel, and type in save typing, you can download that extension
 and it will save while you're typing. Once you are done, and everything is saved and you double checked everthing you will go to Github Desktop and will change your branch from master to "Staging changes",. It will say you have new commits to push to the origin, and you should push to "Staging changes", and leave a summary and description of what you did (a small sentence is fine, nothing more needed). Continue to work and if you have any questions just ping me. The second guide here will negate all of this and will be simpler, but might screw you over
 
--->
-
 ## Only GitHub
 
 Okay, instead of all that, you can just edit the pages directly on GitHub with your account. No need to sync changes or anything and you just work on the "staging changes" branch. None of your work will save unless you manually save, and you can't review what you changed unlike github desktop. The experience is a lot worse and if you forgot what you just did you might have to start all over.
+
+-->
 
 ## Things you have to do
 
