@@ -1,5 +1,25 @@
 # Intro
 
+## Updated, Read only this:
+# GitHub Instructions!
+
+https://drive.google.com/file/d/1CEMiYXsTSq9ITNGHn85FFrp7-dFBCInX/view?usp=sharing
+
+* If you can see this you're halfway there!!
+* Download [Git](https://git-scm.com/)
+ * Don't worry about any settings, just smash next until it insstalls
+* Download [VS CODE](https://code.visualstudio.com/)
+ * Go to the bottom left of the VSCode application, to the Accounts Icon. Sign into Settings Sync using GitHub account.
+* Download [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) and [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) ***AFTER*** downloading VS Code. 
+* Download GitHub Desktop
+ * Sign in using GitHub Account
+* Go to clone Repository by URL. 
+ * Copy Paste this, https://github.com/Bibliographies-Admin/Ethics.git into the url pastebin
+ * Clone the Repository to your machine. 
+* Set VSCode as your external editor
+* You should now be able to push/pull any documents, as long as GitHub desktop shows different files. 
+---
+
 You should download GitHub Desktop/VS Code
 
 Check to see if you see my projects in this page: https://github.com/BibliographiesProject/Bibliographies/projects. If not don't worry about it. If you do, please change each note to the respective column while you're working. Easier for both you and I. 
