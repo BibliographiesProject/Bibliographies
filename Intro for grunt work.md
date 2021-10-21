@@ -25,6 +25,8 @@ Check to see if you see my projects in this page: https://github.com/Bibliograph
 
 Have this webiste open all the time: https://www.markdownguide.org/basic-syntax. This is the "language" you will be writing in all the time. Follow my format if you ever have trouble. 
 
+<!---
+
 ## GitHub Desktop/VS Code/AutoSave
 
 When you make your github account send me the email or username and I'll add you as a collaborator. The invite will come through email. When you accept follow the next steps.
@@ -39,6 +41,8 @@ On GitHub desktop there should be a little prompt that in the middle of your scr
 
 VS Code is where you can make really easy changes. You save, and then go over to GitHub Desktop and be able to push or pull changes to the github repo on the website. If you change it on your computer and push it will change on the repo wesbite. Save the file with .md extension as you're working with markdown. If you go in vscode and click the cubes on the side panel, and type in save typing, you can download that extension
 and it will save while you're typing. Once you are done, and everything is saved and you double checked everthing you will go to Github Desktop and will change your branch from master to "Staging changes",. It will say you have new commits to push to the origin, and you should push to "Staging changes", and leave a summary and description of what you did (a small sentence is fine, nothing more needed). Continue to work and if you have any questions just ping me. The second guide here will negate all of this and will be simpler, but might screw you over
+
+-->
 
 ## Only GitHub
 
