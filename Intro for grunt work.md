@@ -1,10 +1,7 @@
 # Intro
 
 ## Updated, Read only this:
-# GitHub Instructions!
-
-https://drive.google.com/file/d/1CEMiYXsTSq9ITNGHn85FFrp7-dFBCInX/view?usp=sharing
-
+# GitHub Instructions
 * If you can see this you're halfway there!!
 * Download [Git](https://git-scm.com/)
  * Don't worry about any settings, just smash next until it insstalls
